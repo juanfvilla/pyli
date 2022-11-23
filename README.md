@@ -1,1 +1,5 @@
-Hello World
+- 👋 Hi, I’m @juanfvilla
+- 👀 I’m interested in make a codespace for python abs
+- 🌱 I’m currently learning python and data science
+- 💞️ I’m looking to collaborate on python and data science
+- 📫 How to reach me? https://www.linkedin.com/in/juanfernandovillahernandez/
